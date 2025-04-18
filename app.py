@@ -1,1 +1,1 @@
-print("Welcome to Google app Engine")
+print("Welcome to CC Mock Practical")
